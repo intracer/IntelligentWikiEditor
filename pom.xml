@@ -5,7 +5,7 @@
 	<groupId>intelligent.wiki.editor</groupId>
 	<artifactId>intelligent.wiki.editor</artifactId>
 	<version>0.1.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>Intelligent Wiki Editor</name>
 	<description>Intelligent Wiki Editor is Java-based IDE for Wikipedia articles with extended functions</description>
